@@ -1,4 +1,4 @@
-# BCisland Minecraft JE 1.19.2 服务器
+# BCisland Minecraft JE 1.20.2 服务器
 #### 使用PCL制作的整合包，整合包中包含了服务器MOD、游戏本体以及Java17(Zulu)
 ### 包含的MOD有：
 ### ·苹果皮
